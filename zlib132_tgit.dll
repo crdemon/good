@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 echo "Test40"
+=======
+echo "Test39"
+This was added for Cent OS git check
+>>>>>>> a862043f9ae339997e00e8a394ae5b84ec2cb40f
